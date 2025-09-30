@@ -1,5 +1,3 @@
-# @divyesh/convert-label-value
-
 A tiny utility to convert arrays of strings or objects into `{ label, value }` options — perfect for dropdowns, selects, or any UI component that expects options.
 
 ---
@@ -7,15 +5,15 @@ A tiny utility to convert arrays of strings or objects into `{ label, value }` o
 ## Installation
 
 ```bash
-npm install @divyesh/convert-label-value
+npm install @divyeshpandav/convert-label-value
 # or
-yarn add @divyesh/convert-label-value
+yarn add @divyeshpandav/convert-label-value
 ```
 
 ## Usage Example
 
 ```ts
-import coverLabelValue from "@divyesh/convert-label-value";
+import coverLabelValue from "@divyeshpandav/convert-label-value";
 
 // Example 1: Array of strings
 const fruits = ["apple", "banana", "orange"];
