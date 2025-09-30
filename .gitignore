@@ -1,0 +1,4 @@
+node_modules
+.env
+.DS_Store
+dist/      # if you prefer NOT to commit built files

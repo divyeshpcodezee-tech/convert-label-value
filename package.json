@@ -1,0 +1,16 @@
+{
+  "name": "convert-label-value",
+  "version": "1.0.0",
+  "description": "Small util to convert arrays into {label, value} options",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "prepublishOnly": "npm run build",
+    "test": "node ./dist/example-test.js || true"
+  },
+  "keywords": ["convert", "label", "value", "options", "utility"],
+  "author": "Your Name",
+  "license": "MIT"
+}
