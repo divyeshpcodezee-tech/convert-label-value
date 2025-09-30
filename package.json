@@ -1,6 +1,6 @@
 {
   "name": "@divyesh/convert-label-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small util to convert arrays into {label, value} options",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
